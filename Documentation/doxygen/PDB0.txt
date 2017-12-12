@@ -1025,8 +1025,9 @@ registers of the peripheral(s) configured by the component.
 **                Delay 2 value                            : 0
 **                Delay of falling edge                    : 0.000 us
 **          Pins/Signals                                   : 
-**            Input trigger select                         : PDB_SWTRIG
-**            Input trigger select signal                  : 
+**            Input trigger pin allocation                 : Enabled
+**              Input trigger select                       : PDB_SWTRIG
+**              Input trigger select signal                : 
 **          Interrupts/DMA                                 : 
 **            Interrupt                                    : INT_PDB0
 **            Interrupt request                            : Enabled

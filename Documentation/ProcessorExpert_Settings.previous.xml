@@ -1267,7 +1267,7 @@ Autoselect
             <group name="Channel 2">
               <enumgroup name="Channel mode" v="Single Ended">
                 <group name="Input">
-                  <A_D_channel__pin_ v="PTB0/I2C0_SCL/FTM1_CH0/RMII0_MDIO/MII0_MDIO/FTM1_QD_PHA/LCD_P0/ADC0_SE8/ADC1_SE8/TSI0_CH0" />
+                  <A_D_channel__pin_ v="PTB7/LCD_P7/ADC1_SE13" />
                   <A_D_channel__pin__signal v="" />
                 </group>
               </enumgroup>
@@ -1283,7 +1283,7 @@ Autoselect
             <group name="Channel 4">
               <enumgroup name="Channel mode" v="Single Ended">
                 <group name="Input">
-                  <A_D_channel__pin_ v="PTB7/LCD_P7/ADC1_SE13" />
+                  <A_D_channel__pin_ v="PTB11/SPI1_SCK/UART3_TX/FTM0_FLT2/LCD_P11/ADC1_SE15" />
                   <A_D_channel__pin__signal v="" />
                 </group>
               </enumgroup>
@@ -1454,7 +1454,7 @@ Autoselect
           <boolgroup name="Mode select" v="Single Ended" />
         </group>
         <group name="Channel2">
-          <A_D_channel__pin_ v="PTB0/I2C0_SCL/FTM1_CH0/RMII0_MDIO/MII0_MDIO/FTM1_QD_PHA/LCD_P0/ADC0_SE8/ADC1_SE8/TSI0_CH0" />
+          <A_D_channel__pin_ v="PTB7/LCD_P7/ADC1_SE13" />
           <A_D_channel__pin__signal v="" />
           <boolgroup name="Mode select" v="Single Ended" />
         </group>
@@ -1464,7 +1464,7 @@ Autoselect
           <boolgroup name="Mode select" v="Single Ended" />
         </group>
         <group name="Channel4">
-          <A_D_channel__pin_ v="PTB7/LCD_P7/ADC1_SE13" />
+          <A_D_channel__pin_ v="PTB11/SPI1_SCK/UART3_TX/FTM0_FLT2/LCD_P11/ADC1_SE15" />
           <A_D_channel__pin__signal v="" />
           <boolgroup name="Mode select" v="Single Ended" />
         </group>

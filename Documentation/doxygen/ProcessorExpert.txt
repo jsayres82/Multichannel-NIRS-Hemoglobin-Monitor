@@ -33,7 +33,6 @@
 \page page_components Components 
 
 - \subpage BitIoLdd1
-- \subpage USB_LDD
 - \subpage AdcLdd1
 - \subpage PDB0
 - \subpage AdcLdd2

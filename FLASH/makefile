@@ -2,7 +2,7 @@
 # Automatically-generated file. Do not edit!
 ################################################################################
 
-#Progress monitor hint: 31
+#Progress monitor hint: 22
 first : all
 -include ../makefile.init
 
@@ -61,7 +61,7 @@ all: warning-messages explicit-dependencies NIRs_Device.elf secondary-outputs
 # Tool invocations
 NIRs_Device.elf: $(OBJS) $(USER_OBJS) ../Project_Settings/Linker_Files/ProcessorExpert.ld
 	@echo 'Building target: $@'
-	@echo 'Executing target #32 $@'
+	@echo 'Executing target #23 $@'
 	@echo 'Invoking: ARM Ltd Windows GCC C Linker'
 	"$(ARMSourceryDirEnv)/arm-none-eabi-gcc"  $(USER_OBJS_QUOTED) $(LIBS_QUOTED) @"NIRs_Device.args" -o"NIRs_Device.elf"
 	@echo 'Finished building target: $@'

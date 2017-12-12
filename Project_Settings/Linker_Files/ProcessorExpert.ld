@@ -10,7 +10,7 @@
 /*##                                   */
 /*##     Compiler  : GNU C Compiler    */
 /*##                                   */
-/*##     Date/Time : 2013-11-02, 13:37, # CodeGen: 1 */
+/*##     Date/Time : 2017-12-12, 14:55, # CodeGen: 341 */
 /*##                                   */
 /*##     Abstract  :                   */
 /*##                                   */
@@ -58,8 +58,8 @@ SECTIONS
   .cfmprotect :
   {
     . = ALIGN(4);
-        KEEP(*(.cfmconfig))     /* Flash Configuration Field (FCF) */
-        . = ALIGN(4);
+	KEEP(*(.cfmconfig))	/* Flash Configuration Field (FCF) */
+	. = ALIGN(4);
   } > m_cfmprotrom
 
   /* The program code and other data goes into INTERNAL_RAM */
@@ -142,7 +142,7 @@ SECTIONS
     KEEP (*(.fini_array*))
     PROVIDE_HIDDEN (__fini_array_end = .);
 
-        ___ROM_AT = .;
+	___ROM_AT = .;
   } > m_text
 
   /* Initialized data sections goes into RAM, load LMA copy after code */
@@ -167,7 +167,7 @@ SECTIONS
   {
     /* This is used by the startup in order to initialize the .bss section */
     __START_BSS = .;
-          PROVIDE ( __bss_start__ = __START_BSS );
+	  PROVIDE ( __bss_start__ = __START_BSS );
 
     *(.bss)
     *(.bss*)
@@ -175,7 +175,7 @@ SECTIONS
 
     . = ALIGN(4);
     __END_BSS = .;
-          PROVIDE ( __bss_end__ = __END_BSS );
+ 	  PROVIDE ( __bss_end__ = __END_BSS );
   } > m_data
 
   __S_romp = 0;

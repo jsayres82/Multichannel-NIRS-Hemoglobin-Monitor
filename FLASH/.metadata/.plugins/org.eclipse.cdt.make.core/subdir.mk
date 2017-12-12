@@ -30,7 +30,7 @@ OBJS_OS_FORMAT += \
 # Each subdirectory must supply rules for building sources it contributes
 .metadata/.plugins/org.eclipse.cdt.make.core/specs.o: ../.metadata/.plugins/org.eclipse.cdt.make.core/specs.c
 	@echo 'Building file: $<'
-	@echo 'Executing target #31 $<'
+	@echo 'Executing target #22 $<'
 	@echo 'Invoking: ARM Ltd Windows GCC C Compiler'
 	"$(ARMSourceryDirEnv)/arm-none-eabi-gcc" "$<" @".metadata/.plugins/org.eclipse.cdt.make.core/specs.args" -MMD -MP -MF"$(@:%.o=%.d)" -o".metadata/.plugins/org.eclipse.cdt.make.core/specs.o"
 	@echo 'Finished building: $<'

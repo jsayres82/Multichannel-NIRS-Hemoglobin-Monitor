@@ -43,9 +43,6 @@
 #include "VREF.h"
 #include "Led_Select.h"
 #include "BitIoLdd1.h"
-#include "usb_cdc.h"
-#include "usb_device.h"
-#include "USB_LDD.h"
 
 
 #ifdef __cplusplus
