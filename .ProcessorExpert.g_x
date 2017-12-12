@@ -1,0 +1,84 @@
+<CodeGenerationInfo>
+  <ToolchainSettings>
+    <option>
+      <name>PE_G_4PEx_ToolChain_Compiler_SearchUserPaths</name>
+      <values lines_count="4">
+        <Line>"${ProcessorExpertPath}/lib/Kinetis/iofiles"</Line>
+        <Line>"${ProcessorExpertPath}/lib/Kinetis/pdd/inc"</Line>
+        <Line>"${ProjDirPath}/Sources"</Line>
+        <Line>"${ProjDirPath}/Generated_Code"</Line>
+      </values>
+    </option>
+  </ToolchainSettings>
+  <GeneratedFilesList>
+    <GeneratedByPE>
+      <File Name="Generated_Code/AD2.c" FileDate="2013-12-17, 11:16:06" FileAge="1387296966887" FileType="45637" CompNumb="174" />
+      <File Name="Generated_Code/AD1.h" FileDate="2013-12-11, 15:02:32" FileAge="1386792152752" FileType="45637" CompNumb="171" />
+      <File Name="Sources/Events.h" FileDate="2013-12-16, 06:16:59" FileAge="1387192619458" FileType="131328" />
+      <File Name="Documentation/ProcessorExpert_Settings.xml" FileDate="2013-12-17, 11:16:07" FileAge="1387296967347" FileType="3072" />
+      <File Name="Generated_Code/AD1.c" FileDate="2013-12-11, 15:02:32" FileAge="1386792152741" FileType="45637" CompNumb="171" />
+      <File Name="Documentation/doxygen/BitIoLdd1.txt" FileDate="2013-12-03, 09:22:38" FileAge="1386080558608" FileType="45637" CompNumb="31" />
+      <File Name="Sources/Events.c" FileDate="2013-12-17, 00:35:19" FileAge="1387258519234" FileType="131328" />
+      <File Name="Generated_Code/usb_cdc.h" FileDate="2013-12-15, 23:31:55" FileAge="1387168315430" FileType="45637" CompNumb="72" />
+      <File Name="Generated_Code/usb_cdc.c" FileDate="2013-12-15, 23:31:55" FileAge="1387168315430" FileType="45637" CompNumb="72" />
+      <File Name="Generated_Code/IO_Map.h" FileDate="2013-11-01, 22:15:51" FileAge="1383358551414" FileType="45637" />
+      <File Name="Documentation/doxygen/pex.css" FileDate="2013-11-01, 22:15:51" FileAge="1383358551207" FileType="16384" CompNumb="8" />
+      <File Name="Documentation/doxygen/AdcLdd1.txt" FileDate="2013-12-16, 05:52:23" FileAge="1387191143839" FileType="45637" CompNumb="172" />
+      <File Name="Generated_Code/BitIoLdd1.h" FileDate="2013-12-03, 09:22:38" FileAge="1386080558591" FileType="45637" CompNumb="31" />
+      <File Name="Generated_Code/usb_framework.h" FileDate="2013-12-15, 23:31:55" FileAge="1387168315530" FileType="45637" CompNumb="73" />
+      <File Name="Documentation/doxygen/PDB0.txt" FileDate="2013-12-17, 02:13:32" FileAge="1387264412174" FileType="45637" CompNumb="232" />
+      <File Name="Generated_Code/BitIoLdd1.c" FileDate="2013-12-03, 09:22:38" FileAge="1386080558600" FileType="45637" CompNumb="31" />
+      <File Name="Generated_Code/Led_Select.h" FileDate="2013-12-03, 09:22:38" FileAge="1386080558577" FileType="45637" CompNumb="30" />
+      <File Name="Generated_Code/usb_framework.c" FileDate="2013-12-15, 23:31:55" FileAge="1387168315503" FileType="45637" CompNumb="73" />
+      <File Name="Generated_Code/Led_Select.c" FileDate="2013-12-03, 09:22:38" FileAge="1386080558566" FileType="45637" CompNumb="30" />
+      <File Name="Documentation/ProcessorExpert_SIGNALS.txt" FileDate="2013-12-17, 11:16:07" FileAge="1387296967302" FileType="3072" />
+      <File Name="Generated_Code/PDB0.h" FileDate="2013-12-17, 02:13:32" FileAge="1387264412030" FileType="45637" CompNumb="232" />
+      <File Name="Documentation/doxygen/ProcessorExpert.txt" FileDate="2013-12-17, 00:18:57" FileAge="1387257537925" FileType="45637" CompNumb="8" />
+      <File Name="Generated_Code/usb_class.h" FileDate="2013-12-15, 23:31:55" FileAge="1387168315446" FileType="45637" CompNumb="73" />
+      <File Name="Generated_Code/PDB0.c" FileDate="2013-12-17, 02:13:32" FileAge="1387264412009" FileType="45637" CompNumb="232" />
+      <File Name="Sources/ProcessorExpert.c" FileDate="2013-12-16, 06:16:59" FileAge="1387192619322" FileType="128" />
+      <File Name="Generated_Code/usb_device.h" FileDate="2013-12-15, 23:31:55" FileAge="1387168315635" FileType="45637" CompNumb="73" />
+      <File Name="Generated_Code/usb_descriptor.h" FileDate="2013-12-15, 23:31:55" FileAge="1387168315403" FileType="45637" CompNumb="72" />
+      <File Name="Generated_Code/usb_class.c" FileDate="2013-12-15, 23:31:55" FileAge="1387168315472" FileType="45637" CompNumb="73" />
+      <File Name="Generated_Code/AdcLdd2.h" FileDate="2013-12-17, 11:16:06" FileAge="1387296966926" FileType="45637" CompNumb="175" />
+      <File Name="Documentation/doxygen/RoutingReport.txt" FileDate="2013-11-01, 22:15:51" FileAge="1383358551394" FileType="45637" CompNumb="8" />
+      <File Name="Generated_Code/types.h" FileDate="2013-12-15, 23:31:55" FileAge="1387168315604" FileType="45637" CompNumb="73" />
+      <File Name="Generated_Code/USB_LDD.h" FileDate="2013-12-15, 23:31:55" FileAge="1387168315693" FileType="45637" CompNumb="74" />
+      <File Name="Generated_Code/Cpu.h" FileDate="2013-12-16, 06:16:59" FileAge="1387192619338" FileType="45637" CompNumb="8" />
+      <File Name="Generated_Code/usb_device.c" FileDate="2013-12-15, 23:31:55" FileAge="1387168315619" FileType="45637" CompNumb="73" />
+      <File Name="Project_Settings/Linker_Files/ProcessorExpert.ld" FileDate="2013-11-02, 13:37:25" FileAge="1383413845150" FileType="8" CompNumb="8" />
+      <File Name="Generated_Code/usb_devapi.h" FileDate="2013-12-15, 23:31:55" FileAge="1387168315595" FileType="45637" CompNumb="73" />
+      <File Name="Documentation/doxygen/VREF.txt" FileDate="2013-12-15, 23:31:55" FileAge="1387168315740" FileType="45637" CompNumb="217" />
+      <File Name="Generated_Code/usb_descriptor.c" FileDate="2013-12-15, 23:31:55" FileAge="1387168315388" FileType="45637" CompNumb="72" />
+      <File Name="Generated_Code/AdcLdd2.c" FileDate="2013-12-17, 11:16:07" FileAge="1387296967036" FileType="45637" CompNumb="175" />
+      <File Name="Generated_Code/USB_LDD.c" FileDate="2013-12-15, 23:31:55" FileAge="1387168315666" FileType="45637" CompNumb="74" />
+      <File Name="Generated_Code/Cpu.c" FileDate="2013-12-17, 02:13:32" FileAge="1387264412205" FileType="45637" CompNumb="8" />
+      <File Name="Generated_Code/PE_Const.h" FileDate="2013-11-02, 13:37:24" FileAge="1383413844827" FileType="45637" />
+      <File Name="Generated_Code/PE_LDD.h" FileDate="2013-12-16, 06:16:59" FileAge="1387192619411" FileType="45637" CompNumb="8" />
+      <File Name="Generated_Code/usb_driver.c" FileDate="2013-12-15, 23:31:55" FileAge="1387168315488" FileType="45637" CompNumb="73" />
+      <File Name="Documentation/doxygen/pex.doxyfile" FileDate="2013-11-01, 22:15:51" FileAge="1383358551394" FileType="45637" CompNumb="8" />
+      <File Name="Generated_Code/AdcLdd1.h" FileDate="2013-12-11, 15:02:32" FileAge="1386792152802" FileType="45637" CompNumb="172" />
+      <File Name="Generated_Code/PE_Types.h" FileDate="2013-12-15, 23:31:55" FileAge="1387168315756" FileType="45637" />
+      <File Name="Generated_Code/PE_LDD.c" FileDate="2013-12-15, 23:31:55" FileAge="1387168315840" FileType="45637" CompNumb="8" />
+      <File Name="Generated_Code/PE_Error.h" FileDate="2013-11-02, 13:37:24" FileAge="1383413844832" FileType="45637" />
+      <File Name="Generated_Code/VREF.h" FileDate="2013-12-10, 20:25:05" FileAge="1386725105464" FileType="45637" CompNumb="217" />
+      <File Name="Documentation/doxygen/USB_LDD.txt" FileDate="2013-12-15, 23:31:55" FileAge="1387168315650" FileType="45637" CompNumb="74" />
+      <File Name="Generated_Code/AdcLdd1.c" FileDate="2013-12-11, 15:02:32" FileAge="1386792152808" FileType="45637" CompNumb="172" />
+      <File Name="Generated_Code/usb_cdc_pstn.h" FileDate="2013-12-15, 23:31:55" FileAge="1387168315369" FileType="45637" CompNumb="72" />
+      <File Name="Generated_Code/VREF.c" FileDate="2013-12-10, 20:25:05" FileAge="1386725105611" FileType="45637" CompNumb="217" />
+      <File Name="Generated_Code/usb_dci.h" FileDate="2013-12-15, 23:31:55" FileAge="1387168315561" FileType="45637" CompNumb="73" />
+      <File Name="Documentation/ProcessorExpert.txt" FileDate="2013-12-16, 06:17:00" FileAge="1387192620172" FileType="3072" />
+      <File Name="Generated_Code/usb_cdc_pstn.c" FileDate="2013-12-15, 23:31:55" FileAge="1387168315383" FileType="45637" CompNumb="72" />
+      <File Name="Generated_Code/INT_FTM0.h" FileDate="2013-11-25, 23:18:26" FileAge="1385439506642" FileType="45637" CompNumb="126" />
+      <File Name="Generated_Code/usb_dci.c" FileDate="2013-12-15, 23:31:55" FileAge="1387168315546" FileType="45637" CompNumb="73" />
+      <File Name="Generated_Code/INT_FTM0.c" FileDate="2013-11-25, 23:18:26" FileAge="1385439506716" FileType="45637" CompNumb="126" />
+      <File Name="Project_Settings/Debugger/MK53DN512Z.mem" FileDate="2013-11-01, 22:15:51" FileAge="1383358551384" FileType="45637" CompNumb="8" />
+      <File Name="Generated_Code/usb_dciapi.h" FileDate="2013-12-15, 23:31:55" FileAge="1387168315577" FileType="45637" CompNumb="73" />
+      <File Name="Project_Settings/Debugger/PK53N512.mem" FileDate="2013-11-01, 22:15:51" FileAge="1383358551384" FileType="45637" CompNumb="8" />
+      <File Name="Generated_Code/AD2.h" FileDate="2013-12-17, 11:16:06" FileAge="1387296966901" FileType="45637" CompNumb="174" />
+      <File Name="Generated_Code/Vectors.c" FileDate="2013-12-16, 06:16:59" FileAge="1387192619427" FileType="45637" CompNumb="8" />
+      <File Name="Documentation/doxygen/AdcLdd2.txt" FileDate="2013-12-17, 11:16:07" FileAge="1387296967047" FileType="45637" CompNumb="175" />
+    </GeneratedByPE>
+  </GeneratedFilesList>
+  <CodeGenReference>341</CodeGenReference>
+</CodeGenerationInfo>
